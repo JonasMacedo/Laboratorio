@@ -1,0 +1,8 @@
+.infoFilme{
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+}
+.infoFilme img{
+    border-radius: 50px;
+}
